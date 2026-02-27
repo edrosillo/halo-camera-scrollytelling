@@ -1,0 +1,7 @@
+{
+    "name": "halo-camera-scrollytelling",
+    "compatibility_date": "2024-04-01",
+    "assets": {
+        "directory": "./out"
+    }
+}
